@@ -1,0 +1,1 @@
+[['REMERA', 100, 'M', 500], ['PANTALON', 30, 'M', 27], ['BUFANDA', 8, 'N/A', 20], ['CAMPERA', 90, 'XL', 8], ['MUSCULOSA', 105, 'M', 20], ['SHORT', 11, 'S', 22], ['VESTIDO', 503, 'M', 15], ['MEDIAS', 27, 'L', 10], ['GUANTES', 99, 'S', 6], ['CAMISA', 70, 'L', 15]]
